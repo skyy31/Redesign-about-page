@@ -19,10 +19,11 @@ const About = () => {
           terutama teknologi front-end seperti React, TailwindCSS, dan JavaScript.
           Tujuan saya adalah menciptakan aplikasi yang tidak hanya berfungsi
           dengan baik, tetapi juga memiliki tampilan yang menarik dan mudah
-          digunakan.
+          digunakan. untuk mencapai tujuan tersebut, saya terus mengasah keterampilan
+          saya melalui proyek-proyek pribadi dan kolaborasi dengan teman-teman.
         </p>
         <div className="mt-6 text-gray-500 text-sm italic">
-          Regards, <span className="text-blue-700 font-medium">Regi Najoan</span>
+          Dosen, <span className="text-blue-700 font-medium">Regi Najoan</span>
         </div>
       </div>
     </div>
